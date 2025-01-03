@@ -13,10 +13,10 @@ Un sistema de reserva de alojamientos desarrollado con PHP/MySQL, Bootstrap y Co
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tu-usuario/kodigo-modulo-5-proyecto-final-php-mysql-bootstrap-composer.git
+git clone https://github.com/EzequielMisterLinux/Kodigo-modulo-5-proyecto-final-php-mysql-bootstrap-composer.git
 ```
 
-2. Navega al directorio htdocs de XAMPP y coloca los archivos del proyecto en una carpeta llamada 'alojamientos'.
+2. Navega al directorio htdocs de XAMPP y coloca los archivos del proyecto en una carpeta llamada 'Kodigo-modulo-5-proyecto-final-php-mysql-bootstrap-composer'.
 
 3. Inicia XAMPP y asegúrate de que los servicios de Apache y MySQL estén funcionando.
 
